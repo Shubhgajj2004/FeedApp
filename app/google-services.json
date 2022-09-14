@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222679515345",
+    "project_id": "feed-app-22749",
+    "storage_bucket": "feed-app-22749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222679515345:android:887a87c6d583ecc4d505f0",
+        "android_client_info": {
+          "package_name": "com.shubh.feedapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222679515345-bo9r0v5qdq6fuc7ud9s5hupa79e401e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpCagawShSdHz_VJj9WLLPETPFL6_KRKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222679515345-bo9r0v5qdq6fuc7ud9s5hupa79e401e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
